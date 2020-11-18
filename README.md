@@ -7,7 +7,7 @@ This Config is USABLE FOR HACKINTOSH CLEVO N170SD , XMG 705 , ONE K73-5O
 
 ![ScreenShot](https://github.com/kemalsanli/Monster-Abra-A7-V6-Big-Sur-OC-EFI/blob/main/ScreenShot.png?raw=true)
 
-OSXiNFO Link : 
+OSXiNFO Link : https://osxinfo.net/konu/basarili-kurulum-monster-abra-a7-v6-macos-big-sur-oc.18053/
 
 # My Hardware,
 
@@ -38,4 +38,4 @@ Battery Indicator,
 Nvidia GPU,(TURNED OFF IN WEG)
 
 # Additional,
-TP-Link WN725N thanks to chris1111(https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter)
+TP-Link WN725N Driver thanks to chris1111(https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter)
