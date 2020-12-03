@@ -75,7 +75,7 @@
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>AA==</data>
+				<data></data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -101,7 +101,7 @@
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>AA==</data>
+				<data></data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -127,7 +127,7 @@
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>AA==</data>
+				<data></data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -794,21 +794,21 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02326108GUFJQWCB</string>
+			<string>C025526004NGDQP8C</string>
 			<key>ProcessorType</key>
 			<integer>1797</integer>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>ROM</key>
-			<data>ESIzRFVm</data>
+			<data>FIiaq6lU</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>MacBookPro11,2</string>
+			<string>MacBookPro11,4</string>
 			<key>SystemSerialNumber</key>
-			<string>C02KX1Y6G86R</string>
+			<string>C02QW03TG8WN</string>
 			<key>SystemUUID</key>
-			<string>0F45BC21-8C0A-4182-A06B-B07613E0A60F</string>
+			<string>D397C22F-E1AB-4B1C-A081-DBD7D500993D</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
