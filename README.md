@@ -9,6 +9,11 @@ This Config is USABLE FOR HACKINTOSH CLEVO N170SD , XMG 705 , ONE K73-5O
 
 OSXiNFO Link : https://osxinfo.net/konu/basarili-kurulum-monster-abra-a7-v6-macos-big-sur-oc.18053/
 
+
+# Warning for who having issues with boot entries.
+
+* I configured config.plist file for my boot option needs, if you can't see reset nvram or other boot options please press spacebar every option will shows up again.
+
 # My Hardware,
 
 Intel Core i7-4720HQ, ✅.   
